@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Kennedy Sitati
 - 👀 I’m interested in Android development
+<!---
 - 🌱 I’m currently learning Fullstack(MERN)
+--->
 <!-- <p align="left"> 
   <b>Visitor Count</b><br>
   <img src="https://profile-counter.glitch.me/kenmusima/count.svg" />
