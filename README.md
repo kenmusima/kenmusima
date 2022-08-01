@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Kennedy Sitati
+### 👋 Hi, I’m Kennedy Sitati.
+
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/kennedy-sitati/)
